@@ -45,19 +45,19 @@ Rather than training a single model, this project trains and compares **Bernoull
 
 ### API Running on AWS EC2
 
-![alt text](image.png)
+<img width="1128" height="318" alt="image" src="https://github.com/user-attachments/assets/99de3760-ae8e-4e13-93a0-d3ad114982ea" />
 
 ### Health Check (Server-Side)
 
-![alt text](image.png)
+<img width="1554" height="114" alt="image" src="https://github.com/user-attachments/assets/75438890-142d-4b8d-9ab5-6d3358a424bf" />
 
 ### Interactive Swagger Documentation
 
-![alt text](image.png)
+<img width="1290" height="534" alt="image" src="https://github.com/user-attachments/assets/f4185c7b-2ba4-4a4f-9217-f9834373d97e" />
 
 ### Sentiment Prediction Example
 
-![alt text](image.png)
+<img width="924" height="1302" alt="image" src="https://github.com/user-attachments/assets/cf84b000-6677-4be2-abc8-44e81b452a7c" />
 
 ---
 
@@ -187,15 +187,15 @@ Both models were trained on identical training data and evaluated on the same he
 
 ### Bernoulli Naive Bayes — Confusion Matrix
 
-![alt text](image.png)
+<img width="1170" height="982" alt="image" src="https://github.com/user-attachments/assets/731b3dd9-21e8-45f1-ac3f-805105478c07" />
 
 ### Logistic Regression — Confusion Matrix
 
-![alt text](image.png)
+<img width="1132" height="972" alt="image" src="https://github.com/user-attachments/assets/19dcf84e-91ee-4835-8cd6-cb01a0b73aea" />
 
 ### ROC Curve Comparison
 
-![alt text](image.png)
+<img width="1250" height="952" alt="image" src="https://github.com/user-attachments/assets/25647b52-f414-4042-9268-6b1b4170e23e" />
 
 ### Final Model Selection
 
@@ -281,9 +281,9 @@ docker ps
 docker images
 ```
 
-![alt text](image.png)
+<img width="1568" height="94" alt="image" src="https://github.com/user-attachments/assets/87b53e7f-7407-4238-94bf-fd3e6376e6ec" />
 
-![alt text](image.png)
+<img width="1568" height="112" alt="image" src="https://github.com/user-attachments/assets/737ea310-7e20-469b-8c0a-826511bb2479" />
 
 ---
 
