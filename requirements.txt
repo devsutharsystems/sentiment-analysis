@@ -1,0 +1,8 @@
+numpy==2.2.0
+pandas==2.2.3 
+seaborn
+wordcloud
+matplotlib
+nltk
+scikit-learn
+kagglehub

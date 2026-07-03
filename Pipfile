@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==2.2.0"
+pandas = "==2.2.3"
+seaborn = "*"
+wordcloud = "*"
+matplotlib = "*"
+nltk = "*"
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
