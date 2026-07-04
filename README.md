@@ -1,4 +1,4 @@
-# Social Media Sentiment Analysis API
+# Sentiment Analysis API
 
 An end-to-end **Natural Language Processing (NLP)** project that classifies social media text into **Positive** or **Negative** sentiment using machine learning.
 
